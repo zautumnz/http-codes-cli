@@ -3,9 +3,7 @@
   "description": "just get http status codes in the terminal",
   "version": "3.1.4",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "index.js",
@@ -21,12 +19,12 @@
     "preversion": "npm t",
     "test": "standard"
   },
-  "homepage": "https://github.com/zacanger/http-codes-cli#readme",
+  "homepage": "https://github.com/zautumnz/http-codes-cli#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/http-codes-cli.git"
+    "url": "https://github.com/zautumnz/http-codes-cli.git"
   },
-  "bugs": "https://github.com/zacanger/http-codes-cli/issues",
+  "bugs": "https://github.com/zautumnz/http-codes-cli/issues",
   "keywords": [
     "cli",
     "codes",

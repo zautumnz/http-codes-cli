@@ -12,5 +12,3 @@ $ httpcodes
   httpcodes 'Moved Permanently'
 
 ```
-
-[Donate](https://ko-fi.com/zacanger)
